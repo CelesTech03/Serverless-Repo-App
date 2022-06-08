@@ -1,6 +1,6 @@
 // start coding your function here!
 function running_late(date){
-    if (date.getTime() > 10){
+    if (date > (22,0,0,0)){
         return "It is late!"
     } 
     else {
